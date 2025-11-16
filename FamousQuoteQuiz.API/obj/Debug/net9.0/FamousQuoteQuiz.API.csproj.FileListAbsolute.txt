@@ -1,0 +1,340 @@
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\appsettings.Development.json
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\appsettings.json
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\FamousQuoteQuiz.API.staticwebassets.endpoints.json
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\FamousQuoteQuiz.API.exe
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\FamousQuoteQuiz.API.deps.json
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\FamousQuoteQuiz.API.runtimeconfig.json
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\FamousQuoteQuiz.API.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\FamousQuoteQuiz.API.pdb
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Azure.Core.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Azure.Identity.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Humanizer.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.ClientModel.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.CodeDom.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Composition.Convention.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Drawing.Common.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Formats.Asn1.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Memory.Data.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Security.Permissions.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Text.Json.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.csproj.AssemblyReference.cache
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.GeneratedMSBuildEditorConfig.editorconfig
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.AssemblyInfoInputs.cache
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.AssemblyInfo.cs
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.csproj.CoreCompileInputs.cache
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.MvcApplicationPartsAssemblyInfo.cs
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.MvcApplicationPartsAssemblyInfo.cache
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\scopedcss\bundle\FamousQuoteQuiz.API.styles.css
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets.build.json
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets.development.json
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets\msbuild.FamousQuoteQuiz.API.Microsoft.AspNetCore.StaticWebAssets.props
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets\msbuild.FamousQuoteQuiz.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets\msbuild.build.FamousQuoteQuiz.API.props
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.FamousQuoteQuiz.API.props
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.FamousQuoteQuiz.API.props
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets.pack.json
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQu.762C4EF0.Up2Date
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\refint\FamousQuoteQuiz.API.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.pdb
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.genruntimeconfig.cache
+B:\Work\QuizApp\FamousQuoteQuiz.API\obj\Debug\net9.0\ref\FamousQuoteQuiz.API.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+B:\Work\QuizApp\FamousQuoteQuiz.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\appsettings.Development.json
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\FamousQuoteQuiz.API.staticwebassets.endpoints.json
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\appsettings.json
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\FamousQuoteQuiz.API.exe
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\FamousQuoteQuiz.API.deps.json
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\FamousQuoteQuiz.API.runtimeconfig.json
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\FamousQuoteQuiz.API.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\FamousQuoteQuiz.API.pdb
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Azure.Core.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Azure.Identity.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Humanizer.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.ClientModel.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.CodeDom.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Composition.Convention.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Drawing.Common.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Formats.Asn1.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Memory.Data.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Security.Permissions.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Text.Json.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.csproj.AssemblyReference.cache
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.GeneratedMSBuildEditorConfig.editorconfig
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.AssemblyInfoInputs.cache
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.AssemblyInfo.cs
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.csproj.CoreCompileInputs.cache
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.MvcApplicationPartsAssemblyInfo.cs
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.MvcApplicationPartsAssemblyInfo.cache
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\scopedcss\bundle\FamousQuoteQuiz.API.styles.css
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets.build.json
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets.development.json
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets\msbuild.FamousQuoteQuiz.API.Microsoft.AspNetCore.StaticWebAssets.props
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets\msbuild.FamousQuoteQuiz.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets\msbuild.build.FamousQuoteQuiz.API.props
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.FamousQuoteQuiz.API.props
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.FamousQuoteQuiz.API.props
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets.pack.json
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQu.762C4EF0.Up2Date
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\refint\FamousQuoteQuiz.API.dll
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.pdb
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\FamousQuoteQuiz.API.genruntimeconfig.cache
+B:\Work\QuizApp - Copy\FamousQuoteQuiz.API\obj\Debug\net9.0\ref\FamousQuoteQuiz.API.dll

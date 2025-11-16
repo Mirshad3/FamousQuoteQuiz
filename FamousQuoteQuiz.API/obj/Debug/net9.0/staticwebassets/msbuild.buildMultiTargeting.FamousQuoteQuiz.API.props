@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FamousQuoteQuiz.API.props" />
+</Project>

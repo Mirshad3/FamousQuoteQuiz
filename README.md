@@ -1,4 +1,5 @@
-Solution Description – Famous Quote Quiz
+# FamousQuoteQuiz
+Solution Description
 1. Overview
 This project is a full-stack implementation of the Famous Quote Quiz system. Users guess the authors
 of famous quotes using two modes: Binary (Yes/No) and Multiple Choice. The system includes
@@ -51,5 +52,5 @@ Games: save session, history
 - Animated success/error
 - Auto-restart quiz
 
-# FamousQuoteQuiz
+
 
